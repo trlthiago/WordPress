@@ -19,5 +19,12 @@ env:
   php_extensions: "gd mysql mysqli opcache pdo_mysql soap"
   
 requires:
+  web: 
+    quantity: 2
+    size: 2
   database:
     - type: mysql
+    - type: mysql
+    - type: mongodb
+    - type: sqlserver
+  
