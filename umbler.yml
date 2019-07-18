@@ -1,10 +1,10 @@
 name: TRLPress
-Developedby: TRL
+author: TRL
 stack: php
 version: 1.0
 pack: "**/*.*"
 dist: /public
-description: "Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I&#8217;m proud to be a part of. Thousands of hours have gone into WordPress, and we're dedicated to making it better every day. Thank you for making it part of your world."
+description: "Welcome. TRLPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I'm proud to be a part of. Thousands of hours have gone into WordPress, and we're dedicated to making it better every day. Thank you for making it part of your world."
 env:
   DB_NAME: "{database_mysql_name}" 
   DB_USER: "{database_mysql_user}"
