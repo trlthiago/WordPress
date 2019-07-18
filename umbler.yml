@@ -1,7 +1,7 @@
 name: TRLPress
 author: TRL
 stack: php
-logo_ul: https://design.umbler.com//assets/svg/sprite-logos.svg#magento
+logo_url: https://design.umbler.com//assets/svg/sprite-logos.svg#magento
 version: 1.0
 pack: "**/*.*"
 dist: /public
