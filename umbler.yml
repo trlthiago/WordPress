@@ -1,4 +1,5 @@
-name: wordpress
+name: TRLPress
+Developedby: TRL
 stack: php
 version: 1.0
 pack: "**/*.*"
