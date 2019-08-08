@@ -27,7 +27,4 @@ requires:
     size: 2
   database:
     - type: mysql
-    - type: mysql
-    - type: mongodb
-    - type: sqlserver
   
